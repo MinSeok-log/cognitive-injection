@@ -1,6 +1,6 @@
 # Cognitive Injection
 
-### npm 패키지 stdout을 통한 AI 에이전트 공격
+### Attacking AI Agents via npm Package stdout
 
 *Published: March 14, 2026*
 
